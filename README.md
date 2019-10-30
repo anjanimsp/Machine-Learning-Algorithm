@@ -99,6 +99,6 @@ Notes on the Essay Data
 
     For all projects with project_submitted_datetime of 2016-05-17 and later, the values of project_essay_3 and project_essay_4 will be NaN. 
 
-ML Algorith Used:
+ML Algorithm Used:
 
 I have Created Project on different different Machine Learning Algorithms such as K-NN, Naive Bayes, Logistics Regression, SVM , RF,XBOOST,KMeans,Agglomerative , DBSCAN with hyperparameter Tunning. Here I use KPI as AUC Score.
