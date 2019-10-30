@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithm
 
-- About the Project 
+# About the Project 
 
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it's approved to be posted on the DonorsChoose.org website.Next year, DonorsChoose.org expects to receive close to 500,000 project proposals. As a result, there are three main problems they need to solve:
 How to scale current manual processes and resources to screen 500,000 projects so that they can be posted as quickly and as efficiently as possible.
@@ -9,7 +9,7 @@ How to focus volunteer time on the applications that need the most assistance.
 
 The goal of the project is to  predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval. 
 
-About the DonorsChoose Data Set : 
+# About the DonorsChoose Data Set : 
 
 The train.csv data set provided by DonorsChoose contains the following features:
 Feature 	Description
@@ -99,6 +99,11 @@ Notes on the Essay Data
 
     For all projects with project_submitted_datetime of 2016-05-17 and later, the values of project_essay_3 and project_essay_4 will be NaN. 
 
-ML Algorithm Used:
+# ML Algorithm Used:
 
 I have Created this Project on different-different Machine Learning Algorithms such as K-NN, Naive Bayes, Logistics Regression, SVM(Support Vector Machine) ,RF(Random Forest),XGBOOST,KMeans,Agglomerative,DBSCAN with hyperparameter Tunning(using Grid Search CV or Random Search CV).For text I used BOW,TFIDF,Word2Vector,TFIDF-weightage-word2vector.Some NLP concepts such as Glove,Spacy,Regx. Here I use KPI as AUC Score.
+
+
+## References:
+1) Applied AI Course
+2) https://www.donorschoose.org/
