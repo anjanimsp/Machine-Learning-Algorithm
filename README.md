@@ -101,4 +101,4 @@ Notes on the Essay Data
 
 ML Algorithm Used:
 
-I have Created Project on different different Machine Learning Algorithms such as K-NN, Naive Bayes, Logistics Regression, SVM , RF,XBOOST,KMeans,Agglomerative , DBSCAN with hyperparameter Tunning. Here I use KPI as AUC Score.
+I have Created this Project on different-different Machine Learning Algorithms such as K-NN, Naive Bayes, Logistics Regression, SVM(Support Vector Machine) ,RF(Random Forest),XGBOOST,KMeans,Agglomerative,DBSCAN with hyperparameter Tunning(using Grid Search CV or Random Search CV).For text I used BOW,TFIDF,Word2Vector,TFIDF-weightage-word2vector.Some NLP concepts such as Glove,Spacy,Regx. Here I use KPI as AUC Score.
